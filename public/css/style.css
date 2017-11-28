@@ -1,0 +1,25 @@
+img{
+    max-height: 150px;
+}
+
+.description {
+  color: slategray;
+}
+
+h2{
+  color: crimson;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#cart {
+  color: #ffffff;
+}
+
+#header-navbar li {
+  margin: 0 3px 3px 0;
+}
+
